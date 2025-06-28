@@ -21,7 +21,7 @@ if %love%==yes goto love
 if %love%==no goto hate
 
 :love
-@echo oon
+@echo on
 echo yoooo now u have anti virus:3 np
 
 pause
