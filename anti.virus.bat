@@ -21,7 +21,7 @@ if %love%==yes goto love
 if %love%==no goto hate
 
 :love
-@echo on
+@echo oon
 echo yoooo now u have anti virus:3 np
 
 pause
@@ -83,3 +83,11 @@ color 4
 :loop
 echo WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY                                                                                       
 goto loop
+
+
+
+
+
+
+
+
